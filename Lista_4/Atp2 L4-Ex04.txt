@@ -1,0 +1,1 @@
+Dados para serem copiados para outro arquivo txt através de um cod c

@@ -1,0 +1,1 @@
+Arquivo txt que foi lido e exibido em um cod c!
